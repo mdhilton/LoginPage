@@ -31,9 +31,6 @@ html, body{
 #btns button{
     margin:auto;
     display: inline-block;
-}
-
-#btns button{
     background-color: white;
     padding: 0.5em 1em 0.5em 1em;
     border: 3px solid lightblue;
