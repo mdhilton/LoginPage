@@ -12,6 +12,14 @@ html, body{
     align-items: center;
 }
 
+input{
+    width: 100%;
+    padding:1em;
+    margin-top: 3em;
+    border-radius:1em;
+    border: none;
+}
+
 #logIn{
     display: grid;;
     width: min(25em,100%);
