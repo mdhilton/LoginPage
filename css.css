@@ -13,6 +13,7 @@ html, body{
 }
 
 #logIn{
+    display: grid;;
     width: min(25em,100%);
     height: min(30em,100%);
     background-color: #1c9ce7;
@@ -24,5 +25,10 @@ html, body{
 }
 
 #btns{
-    margin-top: 30%;
+    display:flex;
+}
+
+#btns button{
+    margin:auto;
+    display: inline-block;
 }
