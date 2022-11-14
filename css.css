@@ -10,7 +10,7 @@ html, body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgba(260,154,5),rgba(250,060,00));
+    background: linear-gradient(rgb(28, 156, 231),lightblue);
 }
 
 input{
@@ -29,7 +29,7 @@ img{
     display: grid;;
     width: min(25em,100%);
     height: min(30em,100%);
-    background-color: rgb(28, 156, 231,.4);
+    background-color: #d3fffb;
     border: 3px solid lightblue;
     border-radius: 2em;
     padding: 2em;
@@ -39,6 +39,10 @@ img{
 
 #btns{
     display:flex;
+}
+
+input{
+    border: 3px solid lightblue;
 }
 
 #btns button{
