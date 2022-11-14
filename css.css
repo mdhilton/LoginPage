@@ -26,3 +26,10 @@ html, body{
 #btns{
     margin-top: 30%;
 }
+
+#btns button{
+    background-color: white;
+    padding: 0.5em 1em 0.5em 1em;
+    border: 3px solid lightblue;
+    border-radius: 1em;
+}
