@@ -21,6 +21,10 @@ input{
     border: none;
 }
 
+img{
+    width:25%;
+}
+
 #logIn{
     display: grid;;
     width: min(25em,100%);
