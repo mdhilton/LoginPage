@@ -10,6 +10,7 @@ html, body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(rgba(260,154,5),rgba(250,060,00));
 }
 
 input{
@@ -24,7 +25,7 @@ input{
     display: grid;;
     width: min(25em,100%);
     height: min(30em,100%);
-    background-color: #1c9ce7;
+    background-color: rgb(28, 156, 231,.4);
     border: 3px solid lightblue;
     border-radius: 2em;
     padding: 2em;
